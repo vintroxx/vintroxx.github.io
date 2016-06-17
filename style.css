@@ -1,5 +1,5 @@
 html,body {
-  height:100%;
+  height:99%;
 }
 body {
   font-family: 'Raleway';
@@ -28,7 +28,7 @@ a:hover {
 }
 div.center {
   position: relative;
-  top: 50%;
+  top: 45%;
   transform: translateY(-50%);
 }
 }
